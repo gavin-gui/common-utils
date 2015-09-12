@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/web/!svn/ver/11545/product/easycms-lib/easycms-common/trunk/easycms-common-1.0/src/com/easycms/common/util/mail
+END
+MailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/web/!svn/ver/10591/product/easycms-lib/easycms-common/trunk/easycms-common-1.0/src/com/easycms/common/util/mail/MailSender.java
+END
+Email.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/web/!svn/ver/10591/product/easycms-lib/easycms-common/trunk/easycms-common-1.0/src/com/easycms/common/util/mail/Email.java
+END
+MailProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/web/!svn/ver/11545/product/easycms-lib/easycms-common/trunk/easycms-common-1.0/src/com/easycms/common/util/mail/MailProcessor.java
+END
+PwdAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/web/!svn/ver/10591/product/easycms-lib/easycms-common/trunk/easycms-common-1.0/src/com/easycms/common/util/mail/PwdAuthenticator.java
+END

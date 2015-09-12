@@ -1,0 +1,49 @@
+################################
+########## \u90ae\u7bb1\u7cfb\u7edf\u4fe1\u606f ###########
+################################
+#\u6a21\u677f\u8def\u5f84,\u6ce8\u610f\u4e0d\u80fd\u5e26\u7a7a\u683c
+mail.tempPath = email_temp/email_template.html
+#\u53d1\u9001\u534f\u8bae
+mail.transport.protocol = smtp	
+#\u90ae\u4ef6\u4e3b\u673a
+mail.smtp.host = smtp.gmail.com
+#\u90ae\u4ef6\u53d1\u9001\u7aef\u53e3
+mail.smtp.port = 587
+#\u662f\u5426\u542f\u7528\u5b89\u5168\u94fe\u63a5
+mail.smtp.starttls.enable = true
+#\u662f\u5426\u8fdb\u884c\u7528\u6237\u6821\u9a8c
+mail.smtp.auth = true
+#\u7528\u6237\u540d
+#mail.username = budgetroam.customer@gmail.com
+#mail.username = jolyn.chua@globalroam.com
+mail.username = globalroamtangxu@gmail.com
+#\u5bc6\u7801
+#mail.password = BudgetR0am@Serv1ce
+#mail.password = geenum88
+mail.password = tx5115211991
+#\u90ae\u4ef6\u6807\u9898
+mail.referral.title = Referral of GNum
+mail.registration.title = Welcome to GNum!
+#\u53d1\u4ef6\u4eba
+mail.address.from = jiepeng@globalroam.com
+################################
+########## \u6536\u4ef6\u4eba\u4fe1\u606f(\u7528\u9017\u53f7\u9694\u5f00) ###########
+################################
+mail.address.to = djiepeng@126.com
+################################
+########## \u660e\u6284\u9001\u4fe1\u606f(\u7528\u9017\u53f7\u9694\u5f00) ###########
+################################
+#mail.address.cc = web@globalroam.com,330770512@qq.com
+################################
+########## \u6697\u6284\u9001\u4fe1\u606f(\u7528\u9017\u53f7\u9694\u5f00) ###########
+################################
+#mail.address.bcc = jiepeng@globalroam.com,330770512@qq.com,web@globalroam.com
+################################
+########## \u6697\u6284\u9001\u4fe1\u606f(\u7528\u9017\u53f7\u9694\u5f00) ###########
+################################
+mail.support = support@budgetroam.com
+################################
+########## \u7b80\u5355\u4fe1\u4ef6\u5185\u5bb9 ###########
+################################
+mail.simple.subject = \u6d4b\u8bd511
+mail.simple.content = \u5185\u5bb9123
