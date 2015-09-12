@@ -1,2 +1,4 @@
 #ignore bin/ dir
 bin/
+#ignore .class file
+.class
